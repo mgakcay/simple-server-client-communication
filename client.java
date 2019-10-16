@@ -40,15 +40,9 @@ public class client {
         filestream.write(b,0,b.length);
          System.out.println("");
         System.out.println("Dosya başarıyla alındı...");
-       
-       
-       
-       
-       
+     
        
     }
-   
 
-   
 
 }

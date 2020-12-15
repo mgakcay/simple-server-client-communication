@@ -1,7 +1,3 @@
-// Server Kodları java
-// Ferat EŞİN
-// 1711012060
-
 package veri;
 
 import com.sun.corba.se.spi.activation.Server;

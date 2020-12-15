@@ -1,7 +1,3 @@
-//Client Kodları java
-//Mahmut Görkem AKÇAY
-//1711012018
-
 package veri;
 
 import java.util.Scanner;
